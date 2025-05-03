@@ -1,0 +1,3 @@
+__pycache__/
+.migrant/
+db.sqlite3
